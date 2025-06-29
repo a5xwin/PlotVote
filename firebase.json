@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"plotvote-ash","appId":"1:51266360786:android:df1a90b394a8610599240b","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"plotvote-ash","configurations":{"android":"1:51266360786:android:df1a90b394a8610599240b","ios":"1:51266360786:ios:37ebe2645f6d165c99240b"}}}}}}
