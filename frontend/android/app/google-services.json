@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "51266360786",
+    "project_id": "plotvote-ash",
+    "storage_bucket": "plotvote-ash.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51266360786:android:7e55bf92428f9cfc99240b",
+        "android_client_info": {
+          "package_name": "com.ash.plotvote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51266360786-297j4v4f40aeeil7pgq0s3me88msston.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ash.plotvote",
+            "certificate_hash": "beae9534e42e0cf7096a9a189b3560c49cb05f80"
+          }
+        },
+        {
+          "client_id": "51266360786-rn98n329o6s2fpcgoo60u23rc0799so0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKX4Ox4scLSoLF-S9tOnh_MoMdpxEAe7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51266360786-rn98n329o6s2fpcgoo60u23rc0799so0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "51266360786-cq7pqva3u0lekq30169mtiaivm688ooi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.plotvote"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
